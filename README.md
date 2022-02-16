@@ -2,7 +2,7 @@ Konnichiwa I am Bibhu👋
 - 👀 I’m interested in building apps/webs.
 - 🌱 I’m currently learning wd/cp.
 - 💞️ I’m looking to collaborate in open source.
-- 📫 How to reach me : [Twitter](https://twitter.com/bibs24_) [LinkedIn](https://www.linkedin.com/in/bibhu24/)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/bibhu24/)
 
 
 
