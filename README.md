@@ -1,9 +1,9 @@
 <h1 align="center">Konnichiwa👋, I'm Bibhu</h1>
-<h3 align="center">Upcoming Open Source Contributor</h3>
+<h3 align="center">Problem Solver / Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibs24&label=Profile%20views&color=0e75b6&style=flat" alt="bibs24" /> </p>
 
-- 🔭 I’m currently working on **Invoice Management using ML**
+- 🔭 I’m currently working on **Problem Solving**
 
 - 🌱 I’m currently learning **Python | Machine Learning**
 
