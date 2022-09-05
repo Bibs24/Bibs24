@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **Python | Machine Learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
